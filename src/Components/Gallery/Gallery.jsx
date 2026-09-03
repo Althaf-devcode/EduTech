@@ -16,7 +16,7 @@ const Gallery = () => {
         <img src={photo_4} alt="photo_4" />
       </div>
 
-        <button className='btn dark-btn'> See more here <BiRightArrowAlt size={30}/> </button>
+      <button className='btn dark-btn'> See more here <BiRightArrowAlt size={30}/> </button>
 
 
     </div>
